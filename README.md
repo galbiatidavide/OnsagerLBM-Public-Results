@@ -23,7 +23,7 @@ The project originated in the context of **vortex ring simulations** and has sin
 
 For example, here you can see the **lid-driven cavity flow at Re = 1000**, simulated with the Onsager-regularized LBM:
 
-![Lid Driven Cavity Re=1000](link_to_image_or_gif_if_applicable)
+![lid_driven_Re_1000.gif](link_to_image_or_gif_if_applicable)
 
 This is one of the canonical benchmarks showing the solver’s ability to remain stable and accurate even at moderately high Reynolds numbers — a challenge for classical LBM without enhancements.
 
