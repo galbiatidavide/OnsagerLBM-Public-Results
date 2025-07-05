@@ -27,7 +27,7 @@ For example, here you can see the **lid-driven cavity flow at Re = 1000**, simul
   <tr>
     <td align="center">
       <strong>Lid-Driven Cavity Flow at Re = 1000</strong><br>
-      <img src="[https://example.com/lid_cavity_re1000.gif](https://github.com/galbiatidavide/OnsagerLBM-Public-Results/blob/main/lid_driven_Re_1000.gif)" width="300">
+      <img src="[https://github.com/galbiatidavide/OnsagerLBM-Public-Results/blob/main/lid_driven_Re_1000.gif]" width="300">
     </td>
   </tr>
 </table>
